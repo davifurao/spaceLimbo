@@ -1,3 +1,5 @@
 site para adicionar o bot
 
 https://discord.com/oauth2/authorize?client_id=1203134553624158240&permissions=0&scope=bot%20applications.commands
+
+token: MTIwMzEzNDU1MzYyNDE1ODI0MA.Gt2OqB.edKEZbcvNsNqKg9E_BQ0SuzUL1dmaI_6nj_rYE
